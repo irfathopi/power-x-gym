@@ -21,7 +21,7 @@ const GymMembership = () => {
       
         <section>
             <div>
-                <div className="PricingPlans__headerimg " style={{ backgroundImage: `linear-gradient(34deg, rgba(72,72,72,1) 0%, rgba(0,0,0,0.6615021008403361) 0%),url(${headerImg})` }}>
+                <div className="PricingPlans__headerimg">
                     <h1 className="PricingPlans__heading ">YOUR GYM MEMBERSHIP</h1>
                 </div>
             </div>
