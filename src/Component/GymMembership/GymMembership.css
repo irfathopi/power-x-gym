@@ -1,0 +1,28 @@
+.submitbtn {
+    background-color:#FCCA42;
+    border: none;
+	display:inline-block;
+	cursor:pointer;
+	color:black;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:12px 35px;
+	text-decoration:none;
+    text-shadow:black;
+    margin-top: 5px;
+    float: right
+}
+
+.submitbtn:active {
+	position:relative;
+	top:1px;
+}
+
+.plans__section{
+    width: 100%;
+    margin-bottom: 40px
+}
+.form{
+    float:right
+}
