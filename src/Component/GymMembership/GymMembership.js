@@ -1,5 +1,4 @@
 import React from 'react';
-import headerImg from '../../Image&Icon/edgar-chaparro-sHfo3WOgGTU-unsplash.jpg';
 import emailjs from "emailjs-com";
 import './GymMembership.css';
 
